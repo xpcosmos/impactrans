@@ -32,5 +32,8 @@ Esse é o repositório referente a oficina de ciência de dados! Aqui está os m
   </p>
   
   <h2>
-    Haverão atividades referente aos conteúdos, mas não se preocupe, você não estará sendo reprovado ou aprovado! A função das atividades é mapear os rendimentos das aulas!
+    Atividades
   </h2>
+  <p>
+    Haverão atividades referente aos conteúdos, mas não se preocupe, você não estará sendo reprovado ou aprovado! A função das atividades é mapear os rendimentos das aulas!
+  </p>
