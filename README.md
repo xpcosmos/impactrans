@@ -1,8 +1,9 @@
+
 # Bem vindx a oficina de ciência de dados!
+
 Esse é o repositório referente a oficina de ciência de dados! Aqui está os materiais que serão utilizados na primeira e na segunda parte da oficina.<br>
 
 ## Etapas
-
 <html>
   
 <h3>
@@ -22,3 +23,14 @@ Esse é o repositório referente a oficina de ciência de dados! Aqui está os m
    Vamos buscar entender o funcionamento do Github, Kaggle e outras ferramentas que auxiliam você para conseguir uma tão sonhada vaga no mercado.
    
   </p>
+
+  <h2>
+    Materiais
+  </h2>
+  <p>
+    Os materiais serão disponibilizados nesse repositório e poderão ser livremente baixados e acessados no dia e horário que desejar. Basta acessar o link que foi disponilizado na aula e pronto!
+  </p>
+  
+  <h2>
+    Haverão atividades referente aos conteúdos, mas não se preocupe, você não estará sendo reprovado ou aprovado! A função das atividades é mapear os rendimentos das aulas!
+  </h2>
